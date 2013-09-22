@@ -1,0 +1,18 @@
+{
+  "name": "ship_it",
+  "version": "0.0.1-6",
+  "author": "",
+  "dependencies": {
+    "async": "x.x.x",
+    "express": "x.x.x",
+    "node-easypost": "x.x.x"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "0.8.x"
+  },
+  "subdomain": "ship_it",
+  "scripts": {
+    "start": "server.js"
+  }
+}
