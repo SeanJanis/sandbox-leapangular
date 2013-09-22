@@ -1,7 +1,7 @@
-ship_it
+LeapAngular
 ==============
 
-AngularJS-based shipments page
+Sandbox experiments for the Leap Motion-based AngularJS app. Uses the Leap Motion Javascript API [http://js.leapmotion.com/](http://js.leapmotion.com/).
 
 ## Quick start
 
@@ -20,15 +20,10 @@ This app was built using AngularJS (on top of Node.js) and Bootstrap 3.0
 ## Code Structure
 
 - Front-end AngularJS controllers found under /public/js/angular/controllers/*
-- Back-end NodeJS (EasyPost) endpoints found under /node/endpoints/easypost_wrapper.js
-- Partial templates used to render views: /public/ship
+- Partial templates used to render views: /public/partials
 
 ## Extras
 - Uses animate.css to create smooth page transitions
-
-## Known Issues
-- 3-Step Pages, First Google Maps page currently just for show, will auto-lookup addresses, but doesn't use those in shipment
-- Shipment purchasing is broken. The EasyPost API is returning failure.
 
 ## Authors
 

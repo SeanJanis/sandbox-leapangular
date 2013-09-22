@@ -5,7 +5,7 @@
     <ignored path="leapangular.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/controllers.js" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1378709836327" ignored="false" />
-    <file path="/a.dummy" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1378683154251" ignored="false" />
+    <file path="/a.dummy" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1379812384941" ignored="false" />
     <file path="/application.html.ejs" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1378682567613" ignored="false" />
     <file path="/students.js" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1377477281079" ignored="false" />
     <file path="/_person.html.ejs" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1377472355431" ignored="false" />
@@ -16,18 +16,20 @@
     <file path="/c_ship_label.js" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1378688048984" ignored="false" />
     <file path="/ship_dimensions.html.ejs" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1378683612250" ignored="false" />
     <file path="/ship_label.html.ejs" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1378683703369" ignored="false" />
-    <file path="/index.html" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1378707811932" ignored="false" />
+    <file path="/index.html" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1379812327490" ignored="false" />
     <file path="/c_ship_address.js" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1378711496208" ignored="false" />
     <file path="/ship_address.html" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1378700030226" ignored="false" />
     <file path="/package.json" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1378712458516" ignored="false" />
-    <file path="/server.js" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1378739839367" ignored="false" />
-    <file path="/routes.js" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1378691138505" ignored="false" />
+    <file path="/server.js" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1379812098466" ignored="false" />
+    <file path="/routes.js" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1379811526304" ignored="false" />
     <file path="/directives.js" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1378742128925" ignored="false" />
     <file path="/ship_dimensions.html" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1378738688608" ignored="false" />
     <file path="/easypost_wrapper.js" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1378742500459" ignored="false" />
     <file path="/app.js" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1378717071833" ignored="false" />
     <file path="/ship_label.html" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1378742351206" ignored="false" />
-    <file path="/README.md" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1378742874022" ignored="false" />
+    <file path="/README.md" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1379811793707" ignored="false" />
+    <file path="/c_sandbox.js" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1379811950729" ignored="false" />
+    <file path="/dummy_backend.js" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1379812184910" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,37 +90,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ship_label.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/partials/ship/ship_label.html">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="71" selection-start="527" selection-end="535" vertical-scroll-proportion="0.0">
+            <state line="12" column="43" selection-start="508" selection-end="508" vertical-scroll-proportion="-7.5">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="c_ship_label.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/angular/controllers/ship/c_ship_label.js">
+      <file leaf-file-name="c_sandbox.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/js/angular/controllers/c_sandbox.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="42" selection-start="544" selection-end="544" vertical-scroll-proportion="0.0">
+            <state line="13" column="32" selection-start="428" selection-end="428" vertical-scroll-proportion="0.26859504">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="c_ship_dimensions.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/angular/controllers/ship/c_ship_dimensions.js">
+      <file leaf-file-name="server.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="184" column="73" selection-start="6228" selection-end="6228" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="easypost_wrapper.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node/endpoints/easypost_wrapper.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="182" column="29" selection-start="6196" selection-end="6196" vertical-scroll-proportion="0.0">
+            <state line="15" column="52" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -127,25 +120,25 @@
       <file leaf-file-name="directives.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/js/angular/directives.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="43" selection-start="1242" selection-end="1242" vertical-scroll-proportion="0.0">
+            <state line="22" column="0" selection-start="472" selection-end="472" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/angular/routes.js">
+      <file leaf-file-name="sandbox.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/partials/sandbox.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="13" column="33" selection-start="384" selection-end="384" vertical-scroll-proportion="-8.125">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/js/angular/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="2" selection-start="149" selection-end="149" vertical-scroll-proportion="0.18595041">
+            <state line="8" column="0" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -161,22 +154,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/public/css/ship_it.css" />
-        <option value="$PROJECT_DIR$/public/js/angular/lib/angular-webstorage.js" />
-        <option value="$PROJECT_DIR$/public/partials/ship/ship_address.html" />
-        <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/public/js/angular/controllers/controllers.js" />
-        <option value="$PROJECT_DIR$/public/js/angular/controllers/ship/c_ship_address.js" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/public/js/angular/app.js" />
         <option value="$PROJECT_DIR$/public/js/angular/controllers/ship/c_ship_label.js" />
         <option value="$PROJECT_DIR$/public/partials/ship/ship_dimensions.html" />
-        <option value="$PROJECT_DIR$/server.js" />
-        <option value="$PROJECT_DIR$/public/js/angular/directives.js" />
         <option value="$PROJECT_DIR$/public/partials/ship/ship_label.html" />
         <option value="$PROJECT_DIR$/node/endpoints/easypost_wrapper.js" />
         <option value="$PROJECT_DIR$/public/js/angular/controllers/ship/c_ship_dimensions.js" />
+        <option value="$PROJECT_DIR$/public/js/angular/routes.js" />
+        <option value="$PROJECT_DIR$/public/js/angular/controllers/controllers.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/public/js/angular/app.js" />
+        <option value="$PROJECT_DIR$/public/js/angular/directives.js" />
+        <option value="$PROJECT_DIR$/public/partials/sandbox.html" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/node/endpoints/dummy_backend.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/js/angular/controllers/c_sandbox.js" />
       </list>
     </option>
   </component>
@@ -232,6 +225,176 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leapangular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leapangular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leapangular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leapangular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leapangular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leapangular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leapangular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leapangular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leapangular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="endpoints" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane">
@@ -274,11 +437,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/js/angular/controllers" />
+      <recent name="$PROJECT_DIR$/public/partials" />
       <recent name="$PROJECT_DIR$/public/js/angular/app/controllers/ship" />
       <recent name="$PROJECT_DIR$/public/js/angular/app/controllers" />
       <recent name="$PROJECT_DIR$/app/views/partials" />
-      <recent name="$PROJECT_DIR$/app/views" />
-      <recent name="$PROJECT_DIR$/app/views/main" />
     </key>
   </component>
   <component name="RunManager">
@@ -372,10 +535,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23385939" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -389,13 +553,12 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Colour Chooser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16284074" sideWeight="0.6706507" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16284074" sideWeight="0.6706507" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23385939" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
@@ -463,100 +626,102 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="6" selection-start="1473" selection-end="1542" vertical-scroll-proportion="0.69521046" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/angular/controllers/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="547" selection-end="547" vertical-scroll-proportion="0.39256197">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/express/node_modules/debug/example/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="23" selection-start="106" selection-end="106" vertical-scroll-proportion="0.10683761">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/angular/controllers/ship/c_ship_address.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="27" selection-start="715" selection-end="715" vertical-scroll-proportion="-1.983471" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/partials/ship/ship_dimensions.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="152" selection-start="3689" selection-end="3689" vertical-scroll-proportion="0.67343974" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="32" selection-start="462" selection-end="462" vertical-scroll-proportion="0.3305785" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/node-easypost/lib/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="329" column="35" selection-start="12680" selection-end="12683" vertical-scroll-proportion="0.33333334" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/partials/ship/ship_label.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="71" selection-start="527" selection-end="535" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/angular/controllers/ship/c_ship_label.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="42" selection-start="544" selection-end="544" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/angular/controllers/ship/c_ship_dimensions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="184" column="73" selection-start="6228" selection-end="6228" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="561" selection-end="561" vertical-scroll-proportion="0.55785125" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node/endpoints/easypost_wrapper.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="182" column="29" selection-start="6196" selection-end="6196" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/angular/directives.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="43" selection-start="1242" selection-end="1242" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/angular/routes.js">
+    <entry file="file://$PROJECT_DIR$/public/js/core/models.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/angular/lib/angular-webstorage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/leapangular.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="200" selection-end="200" vertical-scroll-proportion="0.27738264">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/js/angular/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="2" selection-start="149" selection-end="149" vertical-scroll-proportion="0.18595041">
+        <state line="8" column="0" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="152" selection-start="180" selection-end="180" vertical-scroll-proportion="0.06198347">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/angular/controllers/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="36" selection-start="143" selection-end="143" vertical-scroll-proportion="0.12396694">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/angular/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="87" selection-start="165" selection-end="183" vertical-scroll-proportion="0.08264463">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/angular/directives.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="472" selection-end="472" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="52" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node/endpoints/dummy_backend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="24" selection-start="236" selection-end="236" vertical-scroll-proportion="0.25604552">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/partials/sandbox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="33" selection-start="384" selection-end="384" vertical-scroll-proportion="-8.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="43" selection-start="508" selection-end="508" vertical-scroll-proportion="-7.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="22" selection-start="24" selection-end="24" vertical-scroll-proportion="0.021367522">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/angular/controllers/c_sandbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="32" selection-start="428" selection-end="428" vertical-scroll-proportion="0.26859504">
           <folding />
         </state>
       </provider>

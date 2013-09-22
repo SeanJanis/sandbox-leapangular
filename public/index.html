@@ -1,22 +1,22 @@
 <!DOCTYPE html>
-<html lang="en" ng-app="app.ship-it" ng-controller="MainCtrl">
+<html lang="en" ng-app="app.leapangular" ng-controller="MainCtrl">
   <head>
     <meta charset="utf-8">
-    <title>Ship It</title>
+    <title>Leap Motion Sandbox (w/ AngularJS)</title>
     <meta name="description" content="">
     <meta name="author" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Bootstrap 3.0 -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/ship_it.css">
+    <link rel="stylesheet" href="css/leapangular.css">
     <link rel="stylesheet" href="css/animate.min.css">
   </head>
   <body>
     <div class="container">
 
       <div class="header">
-          <h2 class="logo-header-text">Ship it</h2>
+          <h2 class="logo-header-text">Leap Motion Sandbox (w/ AngularJS)</h2>
         </div>
 
         <hr>
@@ -51,11 +51,7 @@
       <script src="js/angular/app.js"></script>
       <script src="js/angular/directives.js"></script>
       <script src="js/angular/controllers/controllers.js"></script>
-      <script src="js/angular/controllers/ship/c_ship_address.js"></script>
-      <script src="js/angular/controllers/ship/c_ship_dimensions.js"></script>
-      <script src="js/angular/controllers/ship/c_ship_label.js"></script>
+      <script src="js/angular/controllers/c_sandbox.js"></script>
       <script src="js/angular/routes.js"></script>
-
-      <!-- Initialize Google Maps for this view -->
-      <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyA2qmVhiy9KV8jFWlkmmv-Ow4Tq1EMxyzg&sensor=false&libraries=geometry"></script>
+      <script src="//js.leapmotion.com/0.2.0/leap.min.js"></script>
 </html>

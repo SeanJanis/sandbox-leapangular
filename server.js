@@ -4,7 +4,7 @@
 //
 var express = require('express');
 var app = express();
-var epw = require('./node/endpoints/easypost_wrapper');
+//var backend = require('./node/endpoints/dummy-backend');
 
 app.configure(function () {
     app.use(express.static(__dirname + '/public'));
@@ -13,8 +13,7 @@ app.configure(function () {
     app.use(app.router);
 
     // Routes
-    app.post('/ep_query_rates', epw.queryRates);
-    app.post('/ep_purchase_label', epw.purchaseLabel);
+    //app.post('/doSomething', backend.doSomething);
 });
 app.listen(3000);
 console.log("Server running on: http://localhost:3000/");
