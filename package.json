@@ -1,14 +1,19 @@
 {
   "name": "leapangular",
-  "version": "0.0.1-6",
+  "version": "0.0.0",
   "author": "",
   "dependencies": {
     "async": "x.x.x",
     "express": "x.x.x"
   },
-  "devDependencies": {},
+  "devDependencies": {
+  },
   "engines": {
-    "node": "0.8.x"
+    "node": ">=0.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SeanJanis/sandbox-leapangular"
   },
   "subdomain": "leapangular",
   "scripts": {
