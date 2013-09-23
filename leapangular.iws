@@ -28,12 +28,12 @@
     <file path="/app.js" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1378717071833" ignored="false" />
     <file path="/ship_label.html" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1378742351206" ignored="false" />
     <file path="/README.md" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1379811793707" ignored="false" />
-    <file path="/c_sandbox.js" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1379872318389" ignored="false" />
+    <file path="/c_sandbox.js" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1379886921314" ignored="false" />
     <file path="/dummy_backend.js" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1379812184910" ignored="false" />
-    <file path="/leapangular.css" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1379868680527" ignored="false" />
-    <file path="/sandbox.html" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1379868630654" ignored="false" />
-    <file path="/leap_events.js" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1379873222017" ignored="false" />
-    <file path="/leap_handler.js" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1379872966224" ignored="false" />
+    <file path="/leapangular.css" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1379895958503" ignored="false" />
+    <file path="/sandbox.html" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1379885351225" ignored="false" />
+    <file path="/leap_events.js" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1379883497473" ignored="false" />
+    <file path="/leap_handler.js" changelist="9897e636-32e6-4446-9ac6-d1b4c99e18b9" time="1379896957964" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,19 +103,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="c_sandbox.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/angular/controllers/c_sandbox.js">
+      <file leaf-file-name="sandbox.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/partials/sandbox.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="36" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0">
+            <state line="15" column="75" selection-start="641" selection-end="641" vertical-scroll-proportion="-9.375">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sandbox.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/partials/sandbox.html">
+      <file leaf-file-name="leapangular.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/leapangular.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="70" selection-start="351" selection-end="365" vertical-scroll-proportion="-5.0">
+            <state line="27" column="12" selection-start="389" selection-end="394" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="c_sandbox.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/angular/controllers/c_sandbox.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="37" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -124,19 +133,10 @@
       <file leaf-file-name="leap_handler.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/js/core/leap_handler.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.3305785">
+            <state line="91" column="30" selection-start="2903" selection-end="2903" vertical-scroll-proportion="0.46280992">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="leapangular.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/css/leapangular.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="15" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -170,10 +170,10 @@
         <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/node/endpoints/dummy_backend.js" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/public/partials/sandbox.html" />
-        <option value="$PROJECT_DIR$/public/css/leapangular.css" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/public/js/core/leap_events.js" />
+        <option value="$PROJECT_DIR$/public/partials/sandbox.html" />
+        <option value="$PROJECT_DIR$/public/css/leapangular.css" />
         <option value="$PROJECT_DIR$/public/js/angular/controllers/c_sandbox.js" />
         <option value="$PROJECT_DIR$/public/js/core/leap_handler.js" />
       </list>
@@ -708,30 +708,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/angular/controllers/c_sandbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="37" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/css/leapangular.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="15" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0">
+        <state line="27" column="12" selection-start="389" selection-end="394" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/partials/sandbox.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="70" selection-start="351" selection-end="365" vertical-scroll-proportion="-5.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/angular/controllers/c_sandbox.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="36" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0">
+        <state line="15" column="75" selection-start="641" selection-end="641" vertical-scroll-proportion="-9.375">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/core/leap_handler.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.3305785">
+        <state line="91" column="30" selection-start="2903" selection-end="2903" vertical-scroll-proportion="0.46280992">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
